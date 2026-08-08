@@ -1,0 +1,6 @@
+{
+  "name": "Comparador de Mercados e Compras Familiar",
+  "description": "Aplicativo de listas de compras sincronizadas em tempo real para comparar preços entre supermercados, compartilhar com a família em múltiplos dispositivos e obter sugestões inteligentes de economia e substitutos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

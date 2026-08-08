@@ -1,0 +1,17 @@
+{
+  "entities": {
+    "rooms": {
+      "title": "Family Rooms",
+      "description": "Stores family shopping list rooms with items, markets, and member activities",
+      "type": "object",
+      "properties": {
+        "code": { "type": "string" },
+        "name": { "type": "string" },
+        "members": { "type": "array", "items": { "type": "string" } },
+        "monthlySavings": { "type": "number" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["code", "name"]
+    }
+  }
+}
